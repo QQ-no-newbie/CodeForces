@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "vector": "cpp",
+    "iostream": "cpp",
+    "mystring.h": "c"
+  },
+  "code-runner.executorMap": {
+    "c": "cls\ncd $dir && gcc $fileName -o .vscode\\exe\\$fileNameWithoutExt && .vscode\\exe\\$fileNameWithoutExt <.vscode\\oi\\in.txt >.vscode\\oi\\out.txt\n",
+    "cpp": "cls\n cd $dir && g++ $fileName -o .vscode\\exe\\$fileNameWithoutExt && .vscode\\exe\\$fileNameWithoutExt <.vscode\\oi\\in.txt >.vscode\\oi\\out.txt\n",
+  },
+  "markdown.extension.preview.autoShowPreviewToSide": false
+}
